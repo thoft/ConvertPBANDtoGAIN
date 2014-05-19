@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Convert PBAND to GAIN</string>
+    <string name="action_settings">Settings</string>
+  	<string name="welcome">This App helps you to convert PBAND to GAIN and vice versa.</string>
+	<string name="pbandToK">Convert PBAND to GAIN</string>
+	<string name="kToPband">Convert GAIN to PBAND</string>
+	<string name="k">GAIN</string>
+	<string name="pband">PBAND</string>
+	<string name="measurementRange">Measurement Range</string>
+	<string name="outputRange">Output Range</string>
+	<string name="calculate">Calculate</string>
+</resources>
